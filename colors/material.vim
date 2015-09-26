@@ -39,18 +39,18 @@ hi Identifier      guifg=#FF9100 ctermfg=208
 hi Ignore          guifg=#808080 ctermfg=244 guibg=bg
 hi IncSearch       guifg=#C4BE89 ctermfg=180 guibg=#000000 ctermbg=0
 hi Keyword         guifg=#EF5350 ctermfg=203               gui=bold
-hi Label           guifg=#D4E157 ctermfg=185               gui=none
+hi Label           guifg=#EC407A ctermfg=185               gui=none
 hi Macro           guifg=#C4BE89 ctermfg=180               gui=italic
 hi SpecialKey      guifg=#26C6DA ctermfg=6               gui=italic
 hi MatchParen      guifg=#000000 ctermfg=0 guibg=#FF9100 ctermbg=208 gui=bold
 hi ModeMsg         guifg=#D4E157 ctermfg=185
 hi MoreMsg         guifg=#D4E157 ctermfg=185
-hi Operator        guifg=#7E57C2 ctermfg=97
+hi Operator        guifg=#5C6BC0 ctermfg=97
 hi Pmenu           guifg=#26C6DA ctermfg=6 guibg=#000000 ctermbg=0
 hi PmenuSel                      guibg=#808080 ctermbg=244
 hi PmenuSbar                     guibg=#080808 ctermbg=0
 hi PmenuThumb      guifg=#26C6DA ctermfg=6
-hi PreCondit       guifg=#EF9A9A ctermfg=210               gui=bold
+hi PreCondit       guifg=#8D6E63 ctermfg=210               gui=bold
 hi PreProc         guifg=#66BB6A ctermfg=71
 hi Question        guifg=#26C6DA ctermfg=6
 hi Repeat          guifg=#EF5350 ctermfg=203               gui=bold
