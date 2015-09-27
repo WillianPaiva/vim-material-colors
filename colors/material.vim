@@ -57,7 +57,7 @@ hi Repeat          guifg=#EF5350 ctermfg=203               gui=bold
 hi Search          guifg=#FFFFFF ctermfg=15 guibg=#455354 ctermbg=239
 hi SignColumn      guifg=#66BB6A ctermfg=71 guibg=#212121 ctermbg=234
 hi SpecialChar     guifg=#EF5350 ctermfg=203               gui=bold
-hi SpecialComment  guifg=#465457 ctermfg=239               gui=bold
+hi SpecialComment  guifg=#616161 ctermfg=239               gui=bold
 hi Special         guifg=#26C6DA ctermfg=6 guibg=bg      gui=italic
 hi SpecialKey      guifg=#888A85 ctermfg=102               gui=italic
 if has("spell")
@@ -76,7 +76,7 @@ hi Title           guifg=#ef5939 ctermfg=203
 hi Todo            guifg=#FF3D00 ctermfg=202 guibg=bg      gui=bold
 hi Typedef         guifg=#26C6DA ctermfg=6
 hi Type            guifg=#26C6DA ctermfg=6               gui=none
-hi Underlined      guifg=#808080 ctermfg=244               gui=underline
+hi Underlined      guifg=#EC407A ctermfg=244               gui=underline
 hi VertSplit       guifg=#808080 ctermfg=244 guibg=#080808 ctermbg=0 gui=bold
 hi VisualNOS                     guibg=#403D3D ctermbg=237
 hi Visual                        guibg=#403D3D ctermbg=237
@@ -88,3 +88,22 @@ hi CursorLine                    guibg=#424242 ctermbg=238
 hi CursorColumn                  guibg=#424242 ctermbg=238
 hi LineNr          guifg=#BDBDBD ctermfg=250 guibg=#212121 ctermbg=234
 hi NonText         guifg=#BDBDBD ctermfg=250 guibg=#212121 ctermbg=234
+
+hi Class        guifg=#26C6DA
+hi DefinedName      guifg=#26C6DA
+hi EnumerationValue     guifg=i#AB47BC
+hi EnumeratorName       guifg=i#AB47BC
+hi EnumerationName      guifg=i#AB47BC
+hi LocalVariable        guifg=i#AB47BC
+hi Member       guifg=##FF9100
+hi Namespace        guifg=#26C6DA
+hi Union        guifg=#26C6DA
+hi GlobalVariable       guifg=#FF9100
+hi Extern       guifg=#5C6BC0
+hi File     guifg=#D4E157
+hi Anchor       guifg=#FF9100
+hi Field        guifg=#FF9100
+hi Interface        guifg=#26C6DA
+hi Method       guifg=#66BB6A
+hi Package      guifg=#AB47BC
+hi Property     guifg=#26C6DA
